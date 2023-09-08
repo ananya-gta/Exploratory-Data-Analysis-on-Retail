@@ -8,11 +8,9 @@ Original file is located at
 
 # **Ananya Gupta**
 
-## **DATA SCIENCE & BUSINESS ANALYTICS INTERN AT THE SPARKS FOUNDATION**
-
 ### *Dataset: SampleSuperstore.csv* (https://bit.ly/3i4rbWl) 
 
-## **TASK #3 EXPLORATORY DATA ANALYSIS - RETAIL**
+## **EXPLORATORY DATA ANALYSIS - RETAIL**
 
 Hey everyone! This is an EDA project analyzing SampleSuperStore data set and visualizing it. The objective of this project is to analyze and identify trends and patterns in the current retail sales and identify which sector of the market is under loss and which sector is making huge profits. Every sector offers discounts on sales, but, do they collect profits as needed on the discounts they offer? Which shipment class boosts the sales of which category?
 
